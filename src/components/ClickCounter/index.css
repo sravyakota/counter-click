@@ -1,0 +1,34 @@
+.counterContainer {
+  background-color: #f1f5f8;
+  height: 100vh;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #2d3a35;
+  font-family: 'roboto';
+  font-size: 30px;
+  font-weight: bold;
+}
+.count {
+  color: #c20a72;
+  font-size: 30px;
+  font-weight: bold;
+}
+.paragraph {
+  color: #2d3a35;
+  font-family: 'roboto';
+  font-size: 20px;
+}
+.button {
+  color: #ffffff;
+  background-color: #007bff;
+  height: 32px;
+  width: 110px;
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+}
